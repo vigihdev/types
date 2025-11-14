@@ -17,7 +17,7 @@ declare global {
         locale: locale,
         Namespace: Namespace,
         Unit: Unit
-    }
+    };
 
 }
 
